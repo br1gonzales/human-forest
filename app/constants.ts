@@ -1,0 +1,1 @@
+export const defaultOrderValue = 'papas con queso'
